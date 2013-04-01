@@ -1,5 +1,6 @@
 masstwispam
 ===========
+Следить за обновлением тут @BigBanhammer
 
 Скрипт берём из файла bookmarklet.js
 
