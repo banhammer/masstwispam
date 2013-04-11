@@ -2,7 +2,7 @@ masstwispam
 ===========
 Следить за обновлением тут @BigBanhammer
 
-Скрипт для бана фоловеров bookmarklet-followers.js
+Скрипт для бана фоловеров bookmarklet.js
 
 Скрипт для бана по хэштэгу bookmarklet-trends.js
 
